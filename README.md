@@ -1,6 +1,6 @@
 # primero-repositorio
-Primer repositorio aprendiendo Git
+UwU
 
 ## Descripción
 
-Ando aprendiendo a usar el MD que tiene esto, qué estilizado se ve esto. Tremendo 
+Arigato-nya >//<
